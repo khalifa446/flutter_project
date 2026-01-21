@@ -1,16 +1,29 @@
-# flutter_project
+# My Flutter App
 
-A new Flutter project.
+This is a Flutter application built using Flutter.
+The project runs on Android and iOS devices and cannot be run directly from GitHub.
 
-## Getting Started
+## Requirements
+- Flutter SDK
+- Android Studio or VS Code
+- Android Emulator or real device
 
-This project is a starting point for a Flutter application.
+## How to Run the Project
+1. Clone the repository using:
+   git clone https://github.com/khalifa446/flutter_project.git
 
-A few resources to get you started if this is your first Flutter project:
+2. Go to the project folder:
+   cd flutter_project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Install dependencies:
+   flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Run the project:
+   flutter run
+
+## Notes
+- This project cannot run directly from GitHub.
+- Flutter must be installed before running the project.
+
+
+
